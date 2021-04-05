@@ -1,0 +1,13 @@
+¿Qué es una computadora?
+Dispositivo electrónico capaz de recibir instrucciones y ejecutarlas. Estas instrucciones son dadas por un usuario, por medio de una interfaz que presenta el sistema operativo.
+El sistema operativo interpreta y ejecuta con los recursos que dispone, a estos recursos se les conoce como hardware y todo lo que interpreta y ejecuta los deseos del usuario es el software.
+
+¿Qué es programar?
+Decirle a una computadora mediante instrucciones qué hacer, cuándo hacerlo y cómo hacerlo.
+
+Glosario Técnico:
+- Hardware: Recursos físicos con que el usuario da instruccciones.
+- Software: Programas que interpretan y ejecutan los deseos de los usuarios.
+- Interfaz de usuario: Interfaz de línea de comandos (CLI)
+- Interfaz gráfica de usuario (GUI)
+- Interfaz Nativa de usuario (NUI)
